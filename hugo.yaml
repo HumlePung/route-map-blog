@@ -24,8 +24,8 @@ menu:
     - name: About
       pageRef: /about
       weight: 2
-    - name: Programming
-      pageRef: /programming
+    - name: Coding
+      pageRef: /coding
       weight: 3
     - name: Search
       weight: 4
