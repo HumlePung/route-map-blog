@@ -12,5 +12,5 @@ I will acctual start from scratch here with lecture one and so on.
 ## Lectures
 
 {{< cards >}}
-  {{< card link="/coding/javascript/" title="Lecture 1" icon="code" >}}
+  {{< card link="/coding/javascript/lecture1/" title="Lecture 1" icon="code" >}}
 {{< /cards >}}
