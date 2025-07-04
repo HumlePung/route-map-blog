@@ -8,5 +8,5 @@ Here I will collect everything about programming I do. This is more a note/docum
 
 ## Explore programming
 {{< cards >}}
-  {{< card link="JavaScript" title="Javascript" icon="user" >}}
+  {{< card link="javascript" title="Javascript" icon="user" >}}
 {{< /cards >}}
