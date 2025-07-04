@@ -3,15 +3,11 @@ title: First page
 toc: false
 ---
 
-This is the landing page. Whoop
-
+Welcome to my blog. This is mostly technical stuff i write about here. Hope you enoy it. 
 ## Explore
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
   {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}
 
-## Documentation
 
-For more information, visit [Hextra](https://imfing.github.io/hextra).
