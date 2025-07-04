@@ -4,8 +4,8 @@ toc: false
 ---
 This is just console log output
 
-[!NOTE]
-Just for notes. 
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
 
 ```javascript
 console.log("Hello")
