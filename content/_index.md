@@ -7,7 +7,8 @@ Welcome to my blog. This is mostly technical stuff i write about here. Hope you 
 ## Explore
 
 {{< cards >}}
-  {{< card link="/coding/" title="Coding" icon="user" >}}
+  {{< card link="/coding/" title="Coding" icon="code" >}}
+  {{< card link="/coding/" title="Networking " icon="status-online" >}}
   {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}
 
