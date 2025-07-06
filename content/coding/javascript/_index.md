@@ -6,7 +6,7 @@ I have done some JavaScript before, but that is along time ago. Now i want to re
 
 I will use Nodejs to build mye projects in the future. 
 
-## Beggning 
+## Begning
 I will acctual start from scratch here with lecture one and so on. 
 
 ## Examples Engelish
