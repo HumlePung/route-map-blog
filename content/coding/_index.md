@@ -4,7 +4,7 @@ description: Everything about coding
 date: 2025-07-01
 tags: [javascript, programmering, webutvikling, react, nodejs, express, python, rust]
 type: coding
-toc: false
+toc: true
 ---
 
 
