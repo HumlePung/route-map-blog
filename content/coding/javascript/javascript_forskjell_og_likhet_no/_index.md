@@ -21,7 +21,7 @@ toc: false
 
 ## 🧪 Eksempler
 
-```js
+```javascript
 let x = 5;        // Tildeling
 console.log(x);   // 5
 
@@ -42,7 +42,7 @@ console.log(true === 1);  // false
 ### Oppgave 1
 Hva er resultatet?
 
-```js
+```javascript
 let a = '10';
 let b = 10;
 
@@ -53,7 +53,7 @@ console.log(a === b);  // ?
 ### Oppgave 2
 Forklar forskjellen:
 
-```js
+```javascript
 console.log(false == 0);   // ?
 console.log(false === 0);  // ?
 ```
